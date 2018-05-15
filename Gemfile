@@ -50,6 +50,7 @@ group :test do
   gem 'capybara', '~> 2.13'
   gem 'guard-rspec'
   gem 'launchy'
+  gem 'shoulda-matchers'
 end
 
 group :development do
